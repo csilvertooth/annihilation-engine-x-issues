@@ -1,0 +1,18 @@
+name: Map Editor Feature
+description: Suggest a feature for the AEX Map Editor
+title: "[Map Editor Feature]: "
+labels: ["type: feature", "area: map-editor", "status: needs-triage"]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Why Is This Useful?
+    validations:
+      required: true

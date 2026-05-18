@@ -1,0 +1,32 @@
+name: Unit Editor Bug
+description: Report a bug in the AEX Unit Editor
+title: "[Unit Editor Bug]: "
+labels: ["type: bug", "area: unit-editor", "status: needs-triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Describe the problem
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps To Reproduce
+      description: How can we reproduce the issue?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Logs

@@ -1,0 +1,18 @@
+name: Unit Editor Feature
+description: Suggest a feature for the AEX Unit Editor
+title: "[Unit Editor Feature]: "
+labels: ["type: feature", "area: unit-editor", "status: needs-triage"]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Why Is This Useful?
+    validations:
+      required: true

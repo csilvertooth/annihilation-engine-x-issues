@@ -1,0 +1,11 @@
+name: General AEX Feedback
+description: General editor or workflow feedback
+title: "[Feedback]: "
+labels: ["type: usability", "status: needs-triage"]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+    validations:
+      required: true

@@ -1,0 +1,25 @@
+name: Map Editor Bug
+description: Report a bug in the AEX Map Editor
+title: "[Map Editor Bug]: "
+labels: ["type: bug", "area: map-editor", "status: needs-triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps To Reproduce
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+    validations:
+      required: true
