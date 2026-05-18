@@ -9,6 +9,13 @@ Tracked projects include:
 
 The core AEX engine and proprietary runtime remain private.
 
+## Roadmap
+
+Each editor is a standalone product with its own roadmap:
+
+- **[Unit Editor roadmap](ROADMAP.md)**
+- **[Map Editor roadmap](ROADMAP-map-editor.md)**
+
 ## Filing an issue
 
 New here? Read **[How to Create an Issue](docs/creating-an-issue.md)** for a
