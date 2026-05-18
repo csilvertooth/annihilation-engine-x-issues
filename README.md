@@ -9,6 +9,12 @@ Tracked projects include:
 
 The core AEX engine and proprietary runtime remain private.
 
+## Filing an issue
+
+New here? Read **[How to Create an Issue](docs/creating-an-issue.md)** for a
+step-by-step walkthrough, then start at
+[New issue → choose a form](https://github.com/csilvertooth/annihilation-engine-x-issues/issues/new/choose).
+
 This repository exists for:
 - Bug reports
 - Feature requests
