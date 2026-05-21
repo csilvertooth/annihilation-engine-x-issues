@@ -23,3 +23,20 @@ body:
       label: Expected Behavior
     validations:
       required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Logs
+      description: |
+        Screenshots or short log excerpts are most helpful. Two notes
+        before pasting:
+
+        - **Trim personal paths.** Logs typically contain your local
+          paths (e.g. `/Users/<you>/Library/Application Support/AEX/...`
+          or `C:\Users\<you>\AppData\...`). Replace your username with
+          `<you>` or `REDACTED`, or paste only the lines that matter —
+          we don't need your full home directory for triage.
+        - **Don't attach the entire `aex.log`** unless asked. Even a
+          handful of relevant lines is usually enough; the full log can
+          be hundreds of KB and exposes file paths that aren't needed.

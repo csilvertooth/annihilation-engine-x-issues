@@ -1,0 +1,16 @@
+# AEX Unit Editor / Map Editor — security contact (RFC 9116).
+#
+# This file is the canonical source for /.well-known/security.txt. It
+# is tracked in the public issue-tracker repo because the editors
+# don't currently have a dedicated web presence. When a public site is
+# set up at https://azimuthsystems.net or similar, this file should
+# be served at /.well-known/security.txt on that host and the
+# Canonical: URL below updated accordingly.
+
+Contact: mailto:chris@azimuthsystems.net
+Contact: https://github.com/csilvertooth/annihilation-engine-x-issues/security/advisories/new
+Expires: 2027-05-21T00:00:00.000Z
+Preferred-Languages: en
+Policy: https://github.com/csilvertooth/annihilation-engine-x-issues/blob/main/SECURITY.md
+Acknowledgments: https://github.com/csilvertooth/annihilation-engine-x-issues/blob/main/SECURITY.md#acknowledgments
+Canonical: https://raw.githubusercontent.com/csilvertooth/annihilation-engine-x-issues/main/.well-known/security.txt
